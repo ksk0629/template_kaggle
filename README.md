@@ -4,6 +4,9 @@ This is for kaggle.
 # Docker command
 - Run a container: `docker run -itd -p 8888:8080 --mount type=bind,source=/Users/ksk/dev/github/kaggle,target=/home/github --name kaggle gcr.io/kaggle-images/python:ci-pretest /bin/bash`
 
+# Troubleshootings
+- [How to Use/Create Utility Scripts](https://www.kaggle.com/code/acchiko/how-to-use-create-utility-scripts)
+
 # References
 ## Repository
 - [【Kaggleのフォルダ構成や管理方法】タイタニック用のGitHubリポジトリを公開しました](https://upura.hatenablog.com/entry/2018/12/28/225234)
