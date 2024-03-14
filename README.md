@@ -6,6 +6,7 @@ This is for kaggle.
 
 # Troubleshootings
 - [How to Use/Create Utility Scripts](https://www.kaggle.com/code/acchiko/how-to-use-create-utility-scripts)
+- [How to add my own dataset to use another session](https://www.kaggle.com/docs/datasets)
 
 # References
 ## Repository
