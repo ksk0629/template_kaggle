@@ -2,7 +2,8 @@
 This is for kaggle.
 
 # Docker command
-- Run a container: `docker run -itd -p 8888:8080 --mount type=bind,source=/Users/ksk/dev/github/kaggle,target=/home/github --name kaggle gcr.io/kaggle-images/python:ci-pretest /bin/bash`
+- Run a container: `docker run -itd -p 8888:8080 --mount type=bind,source=/Users/ksk/dev/github/kaggle,target=/home/github --name kaggle gcr.io/kaggle-images/python:ci-pretest /bin/bash`.
+- Go into the container: `docker exec -it laravel_app bash`.
 
 # Troubleshootings
 - [How to Use/Create Utility Scripts](https://www.kaggle.com/code/acchiko/how-to-use-create-utility-scripts)
